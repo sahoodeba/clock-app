@@ -1,0 +1,8 @@
+
+{
+  "name": "DEBA PRESTIGE",
+  "description": "A high-performance luxury horological instrument with advanced alarm systems, precision customization, and real-time atmospheric telemetry.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
